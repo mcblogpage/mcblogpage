@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcblogpage
 - 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...[all thing]
 - 💞️ I’m looking to collaborate with ...[programmer]
 - 📫 How to reach me ...[that's hard]
 
